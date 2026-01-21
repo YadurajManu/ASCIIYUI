@@ -14,7 +14,7 @@ A real-time ASCII Camera for your terminal! Converts live webcam feed into high-
 
 ### Using Homebrew (Recommended)
 ```bash
-brew tap YaduEnc/homebrew-tap
+brew tap YadurajManu/homebrew-tap
 brew install asciicam
 ```
 
